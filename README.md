@@ -97,11 +97,11 @@ The chatbot uses a machine-learning pipeline with the following steps:
 
 The required dependencies can be installed via **pip**:
 
-1.**nltk:** Natural Language Toolkit.
-2.**scikit-learn:** Machine Learning Library.
-3.**numpy:** Numerical computations.
-4.**pandas:** Data manipulation.
-5.**tensorflow or keras:** (Optional) Neural network-based models.
+1. **nltk:** Natural Language Toolkit.
+2. **scikit-learn:** Machine Learning Library.
+3. **numpy:** Numerical computations.
+4. **pandas:** Data manipulation.
+5. **tensorflow or keras:** (Optional) Neural network-based models.
 
 
 Install them by running:
@@ -112,9 +112,9 @@ Install them by running:
      
 ## Future Enhancements
 
-1.**Integration with APIs:** Expand the chatbot to fetch live data (e.g., weather, stock prices).
-2.**Context Management:** Add context handling to allow the bot to remember the conversation state.
-3.**GUI Interface:** Create a graphical user interface (GUI) for the chatbot.
+1. **Integration with APIs:** Expand the chatbot to fetch live data (e.g., weather, stock prices).
+2. **Context Management:** Add context handling to allow the bot to remember the conversation state.
+3. **GUI Interface:** Create a graphical user interface (GUI) for the chatbot.
 
 
 ## License
