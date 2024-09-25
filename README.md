@@ -38,7 +38,7 @@ This project demonstrates how to build a conversational AI chatbot using Natural
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karimosman/Chatbot.git
+   git clone https://github.com/karimosman89/Chatbot.git
    cd Chatbot
 
 2. Install the required packages:
