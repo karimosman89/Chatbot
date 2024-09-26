@@ -1,4 +1,4 @@
-# Chatbot Project
+# AI-Powered Chatbot with Contextual Awareness
 
 ## Overview
 This project demonstrates how to build a conversational AI chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user input, process the text using machine learning models, and provide relevant responses. The chatbot can be extended with domain-specific knowledge and custom responses.
