@@ -18,12 +18,8 @@ This project demonstrates how to build a conversational AI chatbot using Natural
                                    └── intents.json # Custom intents dataset 
                            ├── src/ 
                                   │ 
-                                  ├── chatbot.py # Main chatbot logic 
-                                  │ 
-                                  ├── model.py # Machine learning model for intent classification 
-                                  │ 
-                                  ├── preprocess.py # Data preprocessing scripts 
-                                  │ 
+                                  ├── chatbot.py # Main chatbot logic  
+                                  │  
                                   ├── train.py # Training script 
                                   │ 
                                   └── utils.py # Utility functions 
